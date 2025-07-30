@@ -11,7 +11,7 @@ I'm a full-stack developer who enjoys building practical, user-focused applicati
 ## 🧩 Projects
 
  
-- **[Legal Horizon](https://legal-horizon.vercel.app/)** – AI writing tool + CMS for legal case studies  
+- **[Legal Horizon](https://legal-horizon.vercel.app/)** – Portfolio Website + CMS for legal case studies  
 - **[Gym Guardian](https://gym.sadasmart.com/login)** – Biometric-based gym app managing 1,200+ members  
 - **EV Charging Simulator** – OCPP-compliant server in Node.js  
 - **Prayer Display App** – Offline signage tool for masjids on Raspberry Pi
